@@ -41,6 +41,6 @@ For dependency manager, I have used cocoapods.
 
 
 I have uploaded this code on public github repository with below url:
-https://github.com/rohitgarg4989/DemoWeatherApp.git
+https://github.com/rohitgarg4989/DemoWeatherForecastApp.git
 
 Suggestions welcome.
